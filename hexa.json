@@ -1,8 +1,8 @@
 {
-    "name": "Hexated providers repository (Backup)",
-    "description": "Hexated Repository",
+    "name": "Microtech VOD (Backup)",
+    "description": "Microtech Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Microtech007/REPO/master/plugin.json"
+      "https://raw.githubusercontent.com/Microtech007/testrepo/master/plugin.json"
     ]
   }
