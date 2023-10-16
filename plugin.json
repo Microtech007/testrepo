@@ -61,7 +61,7 @@
         "name": "AnimeSailProvider"
     },
     {
-        "iconUrl": "https://seeklogo.com/images/M/malaysia_flag-logo-7D56ED73F1-seeklogo.com.png&sz=%size%",
+        "iconUrl": "https://raw.githubusercontent.com/Microtech007/testrepo/master/malweraysia_flag-logo-7D56ED73F1-seeklogo.com.png&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Microtech007/testrepo",
         "fileSize": 16743,
@@ -77,7 +77,7 @@
         "version": 6,
         "internalName": "PencuriMovie",
         "description": "Malaysia VOD",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Aniworld.cs3",
+        "url": "https://raw.githubusercontent.com/Microtech007/testrepo/master/PencuriMovie.cs3",
         "name": "Pencuri Movie"
     },
     {
