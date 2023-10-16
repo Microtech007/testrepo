@@ -181,11 +181,11 @@
         "name": "GomunimeProvider"
     },
     {
-        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://idlixian.com&size=16",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=109.234.36.69&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 25305,
-        "status": 0,
+        "fileSize": 16559,
+        "status": 1,
         "language": "id",
         "authors": [
             "Hexated"
@@ -196,7 +196,7 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 17,
+        "version": 9,
         "internalName": "IdlixProvider",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/IdlixProvider.cs3",
         "name": "IdlixProvider"
