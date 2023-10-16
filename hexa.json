@@ -1,0 +1,8 @@
+{
+    "name": "Hexated providers repository (Backup)",
+    "description": "Hexated Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Microtech007/REPO/master/plugin.json"
+    ]
+  }
