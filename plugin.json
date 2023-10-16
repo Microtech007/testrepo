@@ -1,23 +1,23 @@
 [
     {
-        "iconUrl": "https://media.discordapp.net/attachments/1059306855865782282/1123970193274712096/Anichi.png",
+        "iconUrl": "https://raw.githubusercontent.com/Microtech007/testrepo/master/malweraysia_flag-logo-7D56ED73F1-seeklogo.com.png&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 62203,
+        "repositoryUrl": "https://github.com/Microtech007/testrepo",
+        "fileSize": 16743,
         "status": 1,
-        "language": "en",
+        "language": "my",
         "authors": [
-            "Hexated"
+            "MTS"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
+            "Movie",
+            "Series",
         ],
-        "version": 9,
-        "internalName": "Anichi",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Anichi.cs3",
-        "name": "Anichi"
+        "version": 6,
+        "internalName": "PencuriMovie",
+        "description": "Malaysia VOD",
+        "url": "https://raw.githubusercontent.com/Microtech007/testrepo/master/PencuriMovie.cs3",
+        "name": "Pencuri Movie"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anifreakz.com&sz=%size%",
