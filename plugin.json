@@ -61,25 +61,24 @@
         "name": "AnimeSailProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
+        "iconUrl": "https://seeklogo.com/images/M/malaysia_flag-logo-7D56ED73F1-seeklogo.com.png&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/Microtech007/testrepo",
         "fileSize": 16743,
         "status": 1,
         "language": "my",
         "authors": [
-            "Hexated"
+            "MTS"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
+            "Movie",
+            "Series",
         ],
         "version": 6,
-        "internalName": "Aniworld",
-        "description": "Include: Serienstream",
+        "internalName": "PencuriMovie",
+        "description": "Malaysia VOD",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Aniworld.cs3",
-        "name": "Aniworld"
+        "name": "Pencuri Movie"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
